@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {},
+  "dependencies": {
+    "socks": "git+https://github.com/chrisc93/socks.git#b4291e37528869a2b9259513476d636d9903a1c4"
+  },
   "devDependencies": {},
   "repository": {
     "type": "git",
